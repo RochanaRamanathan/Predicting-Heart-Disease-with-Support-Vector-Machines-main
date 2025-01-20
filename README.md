@@ -79,11 +79,3 @@ The **Radial Basis Function (RBF)** that we are using with our **Support Vector 
 - Summarize findings and insights from the heart disease prediction analysis.
 - Provide actionable recommendations for healthcare or patient management based on the SVM model's predictions.
 
-
-## How to reach me
-
-https://www.linkedin.com/in/abhishek-bhamidipati/
-
-https://abhishekcmu.wixsite.com/home
-
-https://github.com/abhamidi-1234
